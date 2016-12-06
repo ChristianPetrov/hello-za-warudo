@@ -1,7 +1,6 @@
 # hello-za-warudo
 First test repository
-Test
+Test change commitment
 1
 2
 3
-Test2
